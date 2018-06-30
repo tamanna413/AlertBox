@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Alertbox</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_e_mail">enter e-mail</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">password</string>
+    <string name="enter_password">enter password</string>
+    <string name="button">Button</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_string_e_mail">enter @string/e_mail</string>
+    <string name="enter_mail">enter mail</string>
+    <string name="toast">yes!E-mail is confermed</string>
+    <string name="save">SAVE</string>
+    <string name="submit">SUBMIT</string>
+
+</resources>
